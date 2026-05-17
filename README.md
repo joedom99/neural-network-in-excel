@@ -8,7 +8,7 @@
 
 A working neural network built entirely in Excel formulas — no Python, no PyTorch, no VBA, no macros. Every weight, activation, and gradient lives in a cell you can click on and inspect.
 
-This workbook is the companion to the article **Building a Neural Network from First Principles in Excel** on the [Marketing Data Science blog](https://blog.marketingdatascience.ai).
+This workbook is the companion to the article [**Building a Neural Network from First Principles in Excel**](https://blog.marketingdatascience.ai/building-a-neural-network-from-first-principles-in-excel-0562c4e542bf) on the Marketing Data Science blog.
 
 ## What's Inside
 
@@ -43,6 +43,7 @@ The README tab inside the workbook lists all six in full.
 
 ## Related Articles
 
+- [Building a Neural Network from First Principles in Excel](https://blog.marketingdatascience.ai/building-a-neural-network-from-first-principles-in-excel-0562c4e542bf)
 - [Marketing with Neural Networks: What They Are and How to Use Them](https://blog.marketingdatascience.ai/marketing-with-neural-networks-what-they-are-and-how-to-use-them-3e0114771c40)
 - [Neural Networks Explained from First Principles in R](https://blog.marketingdatascience.ai/neural-networks-explained-from-first-principles-in-r-795bc158cf37)
 
